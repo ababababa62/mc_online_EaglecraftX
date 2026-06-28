@@ -1,0 +1,18 @@
+# EaglercraftX Network Settings Chinese Translations
+
+networkSettings.title=共享中继服务器
+networkSettings.add=添加中继
+networkSettings.delete=删除中继
+networkSettings.default=设为主服务器
+networkSettings.refresh=刷新
+networkSettings.loadDefaults=恢复默认
+networkSettings.downloadRelay=下载 JAR文件
+networkSettings.relayTimeout=连接超时
+networkSettings.relayTimeoutTitle=连接超时
+networkSettings.relayTimeoutChange=修改
+addRelay.title=添加中继
+addRelay.add=添加
+addRelay.primary=主服务器
+addRelay.address=地址
+addRelay.name=名称
+addRelay.removeText1=确定要删除中继吗？
